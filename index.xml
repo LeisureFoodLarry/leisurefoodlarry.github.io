@@ -6,37 +6,10 @@
     <description>Recent content on Restaurant Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Dec 2020 13:46:50 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate>
     
 	<atom:link href="https://leisurefoodlarry.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test3</title>
-      <link>https://leisurefoodlarry.github.io/post/test3/</link>
-      <pubDate>Fri, 25 Dec 2020 13:46:50 -0500</pubDate>
-      
-      <guid>https://leisurefoodlarry.github.io/post/test3/</guid>
-      <description>third test for git publishing and creation using jenkins</description>
-    </item>
-    
-    <item>
-      <title>Test2</title>
-      <link>https://leisurefoodlarry.github.io/post/test2/</link>
-      <pubDate>Fri, 25 Dec 2020 13:40:20 -0500</pubDate>
-      
-      <guid>https://leisurefoodlarry.github.io/post/test2/</guid>
-      <description>this is a second test post</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://leisurefoodlarry.github.io/post/test/</link>
-      <pubDate>Fri, 25 Dec 2020 11:39:20 -0500</pubDate>
-      
-      <guid>https://leisurefoodlarry.github.io/post/test/</guid>
-      <description>test post this is a test why won&amp;rsquo;t you build?</description>
-    </item>
     
     <item>
       <title>Red Pepper Miso Wings 2</title>
